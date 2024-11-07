@@ -1,3 +1,21 @@
+
+
+CR1000A
+
+CPU: IPQ8072A
+RAM: 2GB
+EMMC: 4GB
+Switch Chip: RTL9093
+10G Chip: 2 x AQC113C
+2.5G Chip: RTL8221B
+Radio 1: QCN5054
+Radio 2: QCN6024 (4x4 5G 4800Mbps)
+Radio 3: QCN9024 (4x4 6G 4800Mbps)
+
+
+
+
+
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
